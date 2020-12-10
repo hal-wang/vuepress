@@ -1,6 +1,6 @@
 {
   "name": "vuepress",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vuepress 示例项目",
   "main": "index.js",
   "scripts": {
