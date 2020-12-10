@@ -1,5 +1,5 @@
 本项目用于快速创建 vuepress 文档
-[预览结果](https://hal-wang.github.io/vuepress_pages/)
+[预览结果](https://hal-wang.github.io/vuepress-pages/)
 
 ### 克隆本项目
 

@@ -7,7 +7,7 @@ module.exports = {
     markdown: {
         lineNumbers: true
     },
-    base:'/vuepress_pages/',
+    base:'/vuepress-pages/',
     serviceWorker: true,
     themeConfig: {
         logo: '/h.png',
