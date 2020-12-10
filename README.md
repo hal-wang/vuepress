@@ -1,10 +1,10 @@
 本项目用于快速创建 vuepress 文档
-[预览结果](https://hbrwang.github.io/vuepress_pages/)
+[预览结果](https://hal-wang.github.io/vuepress_pages/)
 
 ### 克隆本项目
 
 ```
-git clone https://github.com/hbrwang/vuepress.git
+git clone https://github.com/hal-wang/vuepress.git
 ```
 
 ### 全局安装 vuepress

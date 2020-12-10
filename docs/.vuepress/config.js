@@ -31,7 +31,7 @@ module.exports = {
                     { text: '重置UWP应用', link: '/pages/uwp/reset' },
                 ]
             },
-            { text: 'GitHub', link: 'https://github.com/hbrwang/vuepress' },
+            { text: 'GitHub', link: 'https://github.com/hal-wang/vuepress' },
         ],
         sidebar: {
             '/pages/uwp/': [

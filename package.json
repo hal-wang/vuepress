@@ -9,6 +9,6 @@
     "deploy": "bash deploy.sh"
   },
   "keywords": [],
-  "author": "hubery.wang",
+  "author": "hal-wang",
   "license": "ISC"
 }

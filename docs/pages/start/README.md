@@ -63,5 +63,5 @@ npm init -y
 你也可以直接 clone 本项目，将这个项目改为你的文档
 
 ```
-git clone https://github.com/hbrwang/vuepress.git
+git clone https://github.com/hal-wang/vuepress.git
 ```
